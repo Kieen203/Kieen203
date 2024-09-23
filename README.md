@@ -5,6 +5,6 @@
 
 > ✍ I'm a student of: [FPT University DaNang](https://dnuni.fpt.edu.vn/) (FPTU).
 
-> ✍ I'm current learning **Software Engineer**
+> ✍ I'm current learning **Software Engineer**.
 
 <br />
